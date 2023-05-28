@@ -27,6 +27,7 @@ public class MainChallenge {
 
 //        calculateScore(true, 800, 5, 100);
 //        calculateScore(true,10000,8,200);
+//        calculateScore(true,10000,8,200);
 
     }
 
@@ -35,6 +36,7 @@ public class MainChallenge {
 //        int score = 800;
 //        int levelCompleted = 5;
 //        int bonus = 100;
+
 
         int finalScore = score;
 
